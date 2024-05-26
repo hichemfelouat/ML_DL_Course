@@ -3,8 +3,7 @@
 This course will teach you everything you need to know about machine learning and deep learning from the ground up. It will cover both the theory and the practical skills you need to build your projects. By the end, you will be able to start from scratch and create complete machine learning projects yourself.
 
 ### A- Machine Learning:
-#### Duration: 
-30 hours over 15 sessions
+
 #### Course Outline:
 1- The Fundamentals of Machine Learning
 
@@ -31,8 +30,7 @@ This course will teach you everything you need to know about machine learning an
 12- Projects
 
 ### B- Deep Learning:
-#### Duration: 
-30 hours over 15 sessions
+
 #### Course Outline:
 1- Deep Learning and Neural Networks (Classification and Regression)
 
