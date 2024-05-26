@@ -7,15 +7,15 @@ This course will teach you everything you need to know about machine learning an
 #### Course Outline:
 1- The Fundamentals of Machine Learning [Slides1](ML_Slides/The_Fundamentals_of_Machine_Learning_1.pdf) - [Slides2](ML_Slides/The_Fundamentals_of_Machine_Learning_2.pdf)
 
-2- Dataset Loading [Slides](ML_Slides/Dataset_Loading.pdf) - [Notebook]()
+2- Dataset Loading [Slides](ML_Slides/Dataset_Loading.pdf) - [Notebook](https://drive.google.com/file/d/1k6i32Am0_hgtI48JNVoa0IjVqUq6vyXy/view?usp=sharing)
 
-3- Exploratory Data Analysis [Slides](ML_Slides/Data_Preprocessing_and_Feature_Selection.pdf) - [Notebook]()
+3- Exploratory Data Analysis [Slides](ML_Slides/Data_Preprocessing_and_Feature_Selection.pdf) - [Notebook](https://drive.google.com/file/d/1bQ3gsc-Ev5SlO9fi_sNz0pLdAMA04Ryg/view?usp=sharing)
 
 4- Feature Selection and Extraction (image, text), Standardization, Normalization
 
-5- Regression: Linear regression, Ridge regression, Kernel Ridge regression, Polynomial Regression, SV Regression, Decision tree regression [Slides](ML_Slides/Machine_Learning_Algorithms.pdf) - [Notebook]()
+5- Regression: Linear regression, Ridge regression, Kernel Ridge regression, Polynomial Regression, SV Regression, Decision tree regression [Slides](ML_Slides/Machine_Learning_Algorithms.pdf) - [Notebook](https://drive.google.com/file/d/1brQ2i7qsTNUfR0cLi_RWv2bcN3DO02sl/view?usp=sharing)
 
-6- Classification: SVM, Logistic Regression, Stochastic Gradient Descent, KNN, Naive Bayes Classification, Decision Trees - [Notebook]()
+6- Classification: SVM, Logistic Regression, Stochastic Gradient Descent, KNN, Naive Bayes Classification, Decision Trees - [Notebook](https://drive.google.com/file/d/1zkBYEysfGzISdzGqnYOcYdHyUZ685nuT/view?usp=sharing)
 
 7- Ensemble Methods: Random Forest Classifier, Voting Classifier, AdaBoost, Gradient Boosting, XGBoost
 
@@ -23,9 +23,9 @@ This course will teach you everything you need to know about machine learning an
 
 9- Model selection and evaluation: Cross-Validation, Hyperparameter Tuning, Pipeline
 
-10- Clustering: K-means, DBSCAN, Hierarchical clustering [Notebook]()
+10- Clustering: K-means, DBSCAN, Hierarchical clustering [Notebook](https://drive.google.com/file/d/1bxsqCMBzlrDBy5ZaWKAlp9yGeTg9UGqL/view?usp=sharing)
 
-11- Projects : [Notebook1]() - [Notebook2]()
+11- Projects : [Notebook1](https://drive.google.com/file/d/1njkX7ogO8QSpjuY1pvT9xXi_P60vZN3S/view?usp=sharing) - [Notebook2](https://drive.google.com/file/d/1QNBuiKuf8Qm8Ax1c-Y0uRTjZXeVTfhhA/view?usp=sharing)
 
 ### B- Deep Learning:
 
