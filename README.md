@@ -30,23 +30,23 @@ This course will teach you everything you need to know about machine learning an
 ### B- Deep Learning:
 
 #### Course Outline:
-1- Deep Learning and Neural Networks (Classification and Regression) [Slides1](DL_Slides/NN_1.pdf) - [Slides2](DL_Slides/NN_2.pdf) - [Notebook]()
+1- Deep Learning and Neural Networks (Classification and Regression) [Slides1](DL_Slides/NN_1.pdf) - [Slides2](DL_Slides/NN_2.pdf) - [Notebook1](https://drive.google.com/file/d/1QHM--AR60l2TBOYAjC_5-FW0az0y0kI_/view?usp=sharing) - [Notebook2](https://drive.google.com/file/d/1lITCgkijrVvRma3lZcgfHYcnnXHp3UPp/view?usp=sharing)
 
-2- Convolutional Neural Network (CNN) [Slides](DL_Slides/CNN.pdf) - [Notebook]()
+2- Convolutional Neural Network (CNN) [Slides](DL_Slides/CNN.pdf) - [Notebook](https://drive.google.com/file/d/101qk17zJ8FZT6sFd0RH2vyHWUW98JolD/view?usp=sharing)
 
-3- Transfer Learning (TL) [Slides](DL_Slides/Transfer_learning.pdf) - [Notebook]()
+3- Transfer Learning (TL) [Slides](DL_Slides/Transfer_learning.pdf) - [Notebook](https://drive.google.com/file/d/1QM_W1cdI4KlXp10xyJgK-bcxLdk7ENMV/view?usp=sharing)
 
-4- CNN Architectures and Autoencoder [Notebook]()
+4- CNN Architectures and Autoencoder [Notebook](https://drive.google.com/file/d/1_RjNrKRPmv4L2-c-tWIGJ5r1eyNzKTIA/view?usp=sharing)
 
-5- Recurrent Neural Networks and Time-series Forecasting [Slides](DL_Slides/RNN_and_Time_Series_Forecasting.pdf) - [Notebook]()
+5- Recurrent Neural Networks and Time-series Forecasting [Slides](DL_Slides/RNN_and_Time_Series_Forecasting.pdf) - [Notebook](https://drive.google.com/file/d/1zqkX-vAzbH-j09ELaAngk0N-FvujqeEl/view?usp=sharing)
 
-6- Natural Language Processing (NLP) [Slides](DL_Slides/NLP.pdf) - [Notebook]()
+6- Natural Language Processing (NLP) [Slides](DL_Slides/NLP.pdf) - [Notebook](https://drive.google.com/file/d/166oP9ropdLELInnJNJVOM9OIfhzcUIj4/view?usp=sharing)
 
-7- Computer Vision (CV) (YOLO, Faster RCNN, Mask RCNN, Detectron2) [Slides](DL_Slides/Object_Detection_and_Instance_Segmentation.pdf) - [Notebook]()
+7- Computer Vision (CV) (YOLO, Faster RCNN, Mask RCNN, Detectron2) [Slides](DL_Slides/Object_Detection_and_Instance_Segmentation.pdf) - [Notebook1](https://drive.google.com/file/d/1jq1lAhRL_SwBV3Ifw7QIVcPxdDtIUyA4/view?usp=sharing) - [Notebook2](https://drive.google.com/file/d/1t-wNyQLH17OlnwHE-musa-eer18b0s71/view?usp=sharing) - [Notebook3](https://drive.google.com/file/d/1QmCzjh5qeV1wG7EAB7ea1HFcvV1RuncM/view?usp=sharing)
 
-8- Generative Adversarial Networks (GAN) [Slides](DL_Slides/GAN.pdf) - [Notebook]()
+8- Generative Adversarial Networks (GAN) [Slides](DL_Slides/GAN.pdf) - [Notebook](https://drive.google.com/file/d/1zw_XsrJal7WRoi2qz62_0-vIKo1NfYXh/view?usp=sharing)
 
-9- Audio Classification - [Notebook]()
+9- Audio Classification - [Notebook](https://drive.google.com/file/d/1WX1tGfUmmT4Kk75apDE-V1crXjuuQF_3/view?usp=sharing)
 
 
 ### Tools Used:
