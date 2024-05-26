@@ -32,25 +32,24 @@ This course will teach you everything you need to know about machine learning an
 ### B- Deep Learning:
 
 #### Course Outline:
-1- Deep Learning and Neural Networks (Classification and Regression)
+1- Deep Learning and Neural Networks (Classification and Regression) [Slides1](DL_Slides/NN_1.pdf) - [Slides2](DL_Slides/NN_2.pdf) - [Notebook]()
 
-2- Convolutional Neural Network (CNN)
+2- Convolutional Neural Network (CNN) [Slides](DL_Slides/CNN.pdf) - [Notebook]()
 
-3- Transfer Learning (TL)
+3- Transfer Learning (TL) [Slides](DL_Slides/Transfer_learning.pdf) - [Notebook]()
 
-4- CNN Architectures and Autoencoder
+4- CNN Architectures and Autoencoder [Notebook]()
 
-5- Recurrent Neural Networks and Time-series Forecasting
+5- Recurrent Neural Networks and Time-series Forecasting [Slides](DL_Slides/RNN_and_Time_Series_Forecasting.pdf) - [Notebook]()
 
-6- Natural Language Processing (NLP)
+6- Natural Language Processing (NLP) [Slides](DL_Slides/NLP.pdf) - [Notebook]()
 
-7- Computer Vision (CV) (YOLO, Faster RCNN, Mask RCNN, Detectron2)
+7- Computer Vision (CV) (YOLO, Faster RCNN, Mask RCNN, Detectron2) [Slides](DL_Slides/Object_Detection_and_Instance_Segmentation.pdf) - [Notebook]()
 
-8- Generative Adversarial Networks (GAN)
+8- Generative Adversarial Networks (GAN) [Slides](DL_Slides/GAN.pdf) - [Notebook]()
 
-9- Audio Classification
+9- Audio Classification - [Notebook]()
 
-10- Projects
 
 ### Tools Used:
 1- Machine Learning: Python + Scikit-Learn
