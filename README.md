@@ -5,17 +5,17 @@ This course will teach you everything you need to know about machine learning an
 ### A- Machine Learning:
 
 #### Course Outline:
-1- The Fundamentals of Machine Learning
+1- The Fundamentals of Machine Learning [Slides1](ML_Slides/The_Fundamentals_of_Machine_Learning_1.pdf) - [Slides2](ML_Slides/The_Fundamentals_of_Machine_Learning_2.pdf)
 
-2- Dataset Loading
+2- Dataset Loading [Slides](ML_Slides/Dataset_Loading.pdf) - [Notebook]()
 
-3- Exploratory Data Analysis
+3- Exploratory Data Analysis [Slides](ML_Slides/Data_Preprocessing_and_Feature_Selection.pdf) - [Notebook]()
 
 4- Feature Selection and Extraction (image, text), Standardization, Normalization
 
-5- Regression: Linear regression, Ridge regression, Kernel Ridge regression, Polynomial Regression, SV Regression, Decision tree regression
+5- Regression: Linear regression, Ridge regression, Kernel Ridge regression, Polynomial Regression, SV Regression, Decision tree regression [Slides](ML_Slides/Machine_Learning_Algorithms.pdf) - [Notebook]()
 
-6- Classification: SVM, Logistic Regression, Stochastic Gradient Descent, KNN, Naive Bayes Classification, Decision Trees
+6- Classification: SVM, Logistic Regression, Stochastic Gradient Descent, KNN, Naive Bayes Classification, Decision Trees - [Notebook]()
 
 7- Ensemble Methods: Random Forest Classifier, Voting Classifier, AdaBoost, Gradient Boosting, XGBoost
 
@@ -23,11 +23,9 @@ This course will teach you everything you need to know about machine learning an
 
 9- Model selection and evaluation: Cross-Validation, Hyperparameter Tuning, Pipeline
 
-10- Clustering: K-means, DBSCAN, Hierarchical clustering
+10- Clustering: K-means, DBSCAN, Hierarchical clustering [Notebook]()
 
-11- Audio Classification
-
-12- Projects
+11- Projects : [Notebook1]() - [Notebook2]()
 
 ### B- Deep Learning:
 
