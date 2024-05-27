@@ -3,6 +3,7 @@
 This course will teach you everything you need to know about machine learning and deep learning from the ground up. It will cover both the theory and the practical skills you need to build your projects. By the end, you will be able to start from scratch and create complete machine learning projects yourself.
 
 ### Update
+I will check notebooks for outdated libraries and update them whenever possible.
 
 ### A- Machine Learning:
 
