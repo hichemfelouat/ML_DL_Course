@@ -2,6 +2,8 @@
 
 This course will teach you everything you need to know about machine learning and deep learning from the ground up. It will cover both the theory and the practical skills you need to build your projects. By the end, you will be able to start from scratch and create complete machine learning projects yourself.
 
+### Update
+
 ### A- Machine Learning:
 
 #### Course Outline:
@@ -48,6 +50,7 @@ This course will teach you everything you need to know about machine learning an
 
 9- Audio Classification - [Notebook](https://drive.google.com/file/d/1WX1tGfUmmT4Kk75apDE-V1crXjuuQF_3/view?usp=sharing)
 
+10- Transformers [Slides](DL_Slides/Transformers.pdf)
 
 ### Tools Used:
 1- Machine Learning: Python + Scikit-Learn
